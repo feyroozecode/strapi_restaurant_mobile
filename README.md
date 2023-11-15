@@ -1,6 +1,6 @@
 # strapi_restaurant
 
-A new Flutter project.
+A Flutter App for FOOD restaurants orders 
 
 ## Getting Started
 
